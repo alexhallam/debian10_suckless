@@ -2,6 +2,8 @@
 
 The main suckless tools used are `st` and `dwm`. 
 
+![screenshots](screenshots/pic.png)
+
 ### Instructions
 
 ```
@@ -16,21 +18,6 @@ sudo apt-get install nvim tmux mpd ncmpcpp
 clone my st and dwm builds
 ```
 
-If a mistake was made use `stow -D <dir>`.
-
-```
-dotfiles/
-├── bashrc
-│   └── .bashrc
-├── nvim
-│   └── .config
-│       └── nvim
-│           └── init.vim
-├── README.md
-└── tmux
-    └── .tmux.conf
-
-```
 
 # Other things to do when setting up a new OS
 
