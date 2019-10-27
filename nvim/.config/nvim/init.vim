@@ -150,7 +150,7 @@ let g:R_nvimpager="vertical"
 let g:R_assign = 0
 " nmap <F2> <Plug>RStart
 " nmap <F3> <Plug>RUpdateObjBrowser
-iabbrev >> %>%<CR>
+iabbrev mm %>%<CR>
 iabbrev -- <-
 " autocmd filetype r inoremap $ $<C-x><C-o>
 set completeopt-=preview

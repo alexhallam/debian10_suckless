@@ -131,3 +131,6 @@ JAVA_HOME="/usr/lib/jvm/java-8-openjdk-amd64/jre/bin/java"
 # auto openconnect
 # phint - starts with 3
 alias opc='sudo openconnect $SERVER -u $USERNAME --authgroup $GROUP'
+PATH=$PATH:.local/bin/
+
+

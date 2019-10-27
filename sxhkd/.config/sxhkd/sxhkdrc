@@ -1,0 +1,5 @@
+# Basic binds
+super + f 
+	firefox
+alt + k 
+	ssc
